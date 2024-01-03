@@ -1,5 +1,5 @@
 # Unreal Engine 4 Practice 
- 하루만에 혼자서 배우는 언리얼엔진4 책으로 학습하고 연습
+ 하루만에 혼자서 배우는 언리얼엔진4 책으로 학습하고 연습 언리얼 버전은 4.26
 ![image](https://github.com/madongchan/Unreal-Engine-4-Practice-/assets/63357336/a7393785-7941-4c84-95a6-a008df93fa9f)
 
 
